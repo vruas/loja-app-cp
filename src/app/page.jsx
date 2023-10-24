@@ -1,4 +1,4 @@
-import Image from 'next/image'
+
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
       <p>Gabriel Previ - RM 98774</p>
       <p>Lucas Mendonça - RM 99528</p>
       <p>Otávio Porto - RM 550715</p>
-      <p>Vitor Ruas - RM</p>
+      <p>Vitor Ruas - RM 550871</p>
     </main>
     </>
     
